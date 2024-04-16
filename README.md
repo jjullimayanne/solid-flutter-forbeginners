@@ -1,1 +1,1 @@
-# solid-flutter-forbeginners
+# Solid Dart concepts for beginners
